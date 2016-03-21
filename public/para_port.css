@@ -150,3 +150,7 @@ img:last-of-type:not(.logos) {
 #ruby, #css, #html {
   padding: 15px;
 }
+
+a {
+  position: relative;
+}
