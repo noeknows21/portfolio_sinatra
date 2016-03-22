@@ -134,23 +134,28 @@ img:last-of-type:not(.logos) {
   font-size: 200%;
 }
 
-#linked {
-
-  position: fixed;
-  bottom:0;
-  right:0;
-}
-
-#octo {
-    position: fixed;
-    right:10px;
-    bottom:150px;
-}
-
-#ruby, #css, #html {
+.logos, .logos2 {
   padding: 15px;
+}
+
+#bootstrap {
+  padding-left: 27px;
+}
+
+#js, .logos2 {
+  height: 18vh;
+  width: 8vw;
+}
+
+#rails {
+  height: 18vh;
+  width: 9vw;
 }
 
 a {
   position: relative;
+}
+
+.project-links {
+  font-size: 1.5em;
 }
