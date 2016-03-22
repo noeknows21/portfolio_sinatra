@@ -152,6 +152,14 @@ img:last-of-type:not(.logos) {
   width: 9vw;
 }
 
+#html {
+  width:9.75vw;
+}
+
+#css {
+  width: 7vw;
+}
+
 a {
   position: relative;
 }
