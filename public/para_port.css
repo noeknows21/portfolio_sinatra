@@ -135,11 +135,11 @@ img:last-of-type:not(.logos) {
 }
 
 .logos, .logos2 {
-  padding: 15px;
+  padding: 1vw;
 }
 
 #bootstrap {
-  padding-left: 27px;
+  padding-left: 2vw;
 }
 
 #js, .logos2 {
