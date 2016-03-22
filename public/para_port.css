@@ -172,4 +172,10 @@ a {
 #email {
   position: relative;
   left:0.5em;
+  font-size: 1.5em;
+}
+
+#linked {
+  height:5.5vh;
+  width: 12vw;
 }
