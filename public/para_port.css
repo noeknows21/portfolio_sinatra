@@ -181,3 +181,7 @@ a {
   height:5.5vh;
   width: 12vw;
 }
+
+#linked-container {
+  text-decoration: none;
+}
